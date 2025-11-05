@@ -1,0 +1,23 @@
+# 企知道爬虫工具集 - 依赖包列表
+# 安装命令: pip install -r requirements.txt
+
+# HTTP请求库 (基础版本和高级版本爬虫需要)
+requests>=2.28.0
+
+# HTML解析库 (所有爬虫都需要)
+beautifulsoup4>=4.11.0
+
+# 浏览器自动化库 (智能爬虫必需)
+selenium>=4.8.0
+
+# 数据处理库 (用于数据处理和Excel导出)
+pandas>=1.5.0
+
+# Excel文件处理库 (用于生成Excel文件)
+openpyxl>=3.0.0
+
+# XML/HTML解析器 (BeautifulSoup的解析器后端)
+lxml>=4.9.0
+
+# 随机User-Agent生成 (高级爬虫使用，可选)
+fake-useragent>=1.2.0
