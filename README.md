@@ -209,10 +209,11 @@ python run_qizhidao_spider.py 4 https://qiye.qizhidao.com/batch-query-result?mat
 
 ## 作者
 
-- 项目维护者：您的名字
-- 项目地址：https://github.com/yourusername/qizhidao-spider
+- 项目维护者：Router
+- 项目地址：https://github.com/Router0824/Table-Intelligence-Crawler-System
 
 ## 致谢
 
 感谢所有为这个项目做出贡献的开发者！
+
 
