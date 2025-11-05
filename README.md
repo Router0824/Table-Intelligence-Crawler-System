@@ -166,7 +166,7 @@ result = spider.run()
 
 ## 注意事项
 
-1. **法律合规**：请确保您的使用符合相关法律法规和网站服务条款
+1. **法律合规**：本项目仅用于教育学习和技术研究目的，禁止用于商业用途或任何违法活动
 2. **频率控制**：建议适当控制爬取频率，避免对目标网站造成压力
 3. **验证码**：智能爬虫需要手动处理验证码，请在有界面模式下运行
 4. **ChromeDriver**：确保Chrome浏览器和ChromeDriver版本匹配
@@ -215,5 +215,6 @@ python run_qizhidao_spider.py 4 https://qiye.qizhidao.com/batch-query-result?mat
 ## 致谢
 
 感谢所有为这个项目做出贡献的开发者！
+
 
 
